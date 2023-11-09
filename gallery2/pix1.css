@@ -1,0 +1,23 @@
+@charset "utf-8";
+img{
+width: 970px;
+height: 600px;	
+border-radius: 10px;	
+float: right;
+overflow: hidden;
+	
+}
+body{
+background-color: #282828;
+}
+p{
+font-size:19px;
+color: gold;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+text-shadow:5px 10px 5px black;
+margin: 20px;	
+}
+video{
+height: 700px;
+	
+}

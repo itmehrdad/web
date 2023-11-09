@@ -1,0 +1,20 @@
+@charset "utf-8";
+img{
+width: 700px;
+float: right;
+border-radius: 7px;	
+color: #733905;
+}
+
+
+p{
+
+font-size:19px;
+color: blue;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+text-shadow:5px 10px 5px black;
+margin: 20px;
+	
+}
+
+

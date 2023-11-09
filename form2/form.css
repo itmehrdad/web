@@ -1,0 +1,23 @@
+@charset "utf-8";
+button{
+margin: 20px 0px 0px;
+font-size: 25px;	
+	
+}
+fieldset{
+background:linear-gradient(#2A0078,#523176);
+	border-radius: 10px;
+	color: black;
+}
+body{
+background-image:url("../galleri/پس-زمینه-سیاه-و-صورتی.jpg");
+background-size:block;
+}
+td{
+font-size: 20px;
+color: white;	
+}
+legend{
+color: white;
+	
+}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+div{
+column-count: 6;
+column-gap: 20px;	
+column-width: 150px;
+column-rule:2px solid green;
+	
+	
+}

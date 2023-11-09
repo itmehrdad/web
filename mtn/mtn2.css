@@ -1,0 +1,9 @@
+@charset "utf-8";
+div{
+border: solid 5px black;
+width: 500px;
+padding: 10px;
+resize: both;
+overflow: auto;	
+	
+}

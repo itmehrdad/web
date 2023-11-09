@@ -1,0 +1,39 @@
+@charset "utf-8";
+img{
+margin: 5px;	
+}
+.n1{
+filter: blur(5px);
+	
+}
+.n10{
+filter: brightness(220%);
+}
+.n2{
+filter: contrast(150%);
+}
+.n3{
+filter: drop-shadow(10px 8px 8px yellow);
+}
+.n4{
+filter: grayscale(200%);
+}
+.n5{
+filter: hue-rotate(500deg)
+}
+.n6{
+filter: invert(600%)
+}
+.n7{
+filter: opacity(50%)
+}
+.n8{
+filter: saturate(20)
+}
+.n9{
+filter: sepia(90%);
+	
+}
+body{
+background-color:#2F2F2F; 	
+}

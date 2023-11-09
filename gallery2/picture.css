@@ -1,0 +1,30 @@
+@charset "utf-8";
+ul.page li{
+display: inline;
+
+	
+}
+ul.page li a{
+text-decoration-line: none;
+color:white;
+font-size: 40px;
+padding: 10px 20px;	
+	
+}
+ul.page li a:hover{
+background-color:#360203;
+color:#C2C2C2;
+border-radius:5px; 	
+}
+ul{
+text-align: center;
+margin-top: 850px;	
+margin-right: 70px;
+}
+body{
+background-image: url("../galleri/والپیپر-مشکی-جمجمه-ترسناک.png");
+background-size:cover;	
+
+	
+}
+	

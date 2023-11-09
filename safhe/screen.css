@@ -1,0 +1,21 @@
+@charset "utf-8";
+ul.pages li{
+display: inline;
+
+}
+ul.pages li a{
+	color:black;
+	text-decoration: none;
+	float: left;
+	padding: 10px 15px;
+}
+ul.pages li a.grenn{
+	background-color: green;
+	color: white;
+	border-radius: 3px;
+}
+ul.pages li a:hover{
+	background-color: #ADADAD;
+	border-radius: 3px;
+	
+}
